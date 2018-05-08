@@ -1,0 +1,7 @@
+{
+    "name": "martin/pay",
+    "description": "php pay extension",
+    "type": "package",
+    "license": "MIT",
+    "require": {}
+}
